@@ -1,0 +1,2 @@
+MINUSCULA='abcdefghijklmnñopqrstuvwxyz'
+MAYUSCULA='ABCDEFGHIJKLMNÑOPQRSTUVWXYZ'
